@@ -8,7 +8,7 @@ Smart contract leverages Hyperledger Sawtooth to create blockchain application i
 3. Replaced default consensus algorithm of Hyperledger Sawtooth with Raft.
 
 ## References
-Sawtooth Introduction: https://sawtooth.hyperledger.org/docs/core/releases/1.0.1/introduction.html
-Sawtooth Developer Guide: https://sawtooth.hyperledger.org/docs/core/releases/1.0.1/app_developers_guide.html
-Raft Introduction: https://raft.github.io/
-Sawtooth Raft: https://sawtooth.hyperledger.org/docs/raft/nightly/master/
+1. Sawtooth Introduction: https://sawtooth.hyperledger.org/docs/core/releases/1.0.1/introduction.html
+2. Sawtooth Developer Guide: https://sawtooth.hyperledger.org/docs/core/releases/1.0.1/app_developers_guide.html
+3. Raft Introduction: https://raft.github.io/
+4. Sawtooth Raft: https://sawtooth.hyperledger.org/docs/raft/nightly/master/
